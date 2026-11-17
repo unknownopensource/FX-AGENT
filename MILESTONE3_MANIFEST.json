@@ -1,0 +1,18 @@
+{
+  "files": {
+    "FX_AGENT_Milestone3_Installer.ipynb": "c5fc762acfd39520718c1766ffe1cb94abf7ab884e9a38d20e42cf6bca22a3ea",
+    "docs/MILESTONE_3.md": "f2ea2de360eaf3e03b099d7f781d9301c7d256eaba2a446d35b827b2e9a15e94",
+    "fxagent/demo_m3.py": "7e1c6915ba4baaa560ee93a986fb766a44e0dad05322ad742e2c4ca7574283af",
+    "fxagent/marketdata_m3.py": "de66541fe3cc66941c642fd7d9289d5b1a078beae1ad8934126af36707cecfde",
+    "fxagent/run_m3.py": "e115d9288aecaf786929b33706d5a00c8bcc884cb916ff0d9a3badf039afd2ef",
+    "fxagent/stats_m3.py": "c61125ae29de238273c1b880b8bb85506469c138281b97db137d13df478dbb2b",
+    "fxagent/walkforward_m3.py": "e1abb5df54150a5f4eeb7b58e0f0c307d192fe1dc8557732c75b157e3c436da2",
+    "tests/test_marketdata_m3.py": "bc479a75c7787992e6de62b2fbe2541fab47f471caec5043827528a8514fad2b",
+    "tests/test_walkforward_m3.py": "5c57789630a69b3766502ca81ceb4a381e6ea3620dfb93217e1bf56521c86099"
+  },
+  "format": "FX-AGENT-m3-addon-v1",
+  "original_test_count_expected": 43,
+  "paths_preexisting_must_remain_unchanged": true,
+  "purpose": "offline M3 additive research only",
+  "total_test_count_expected": 78
+}
